@@ -1,16 +1,17 @@
-## Hi there 👋
+# David Kuznetsov
 
-<!--
-**dkrbuilder/dkrbuilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Mathematics and Computer Science student at NRU MPEI.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, NumPy, pandas, SciPy, Matplotlib, SQL, Git
+
+## Projects
+
+- [Numerical Methods](https://github.com/dkrbuilder/numerical-methods)
+- [Mathematical Statistics](https://github.com/dkrbuilder/mathematical-statistics)
+
+## Contacts
+
+- Email: davidkuzn1@gmail.com
+- Telegram: [@dkr005](https://t.me/dkr005)
